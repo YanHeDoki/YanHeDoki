@@ -1,6 +1,6 @@
 # 👋 你好，我是 YanHe
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=YanHeDoki&fontSize=40&desc=Gopher/&Ferris&descAlignY=65)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=YanHeDoki&fontSize=40&desc=Gopher/Ferris&descAlignY=65)
 
 ## 🧑‍💻 关于我
 
