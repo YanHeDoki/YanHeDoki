@@ -1,10 +1,10 @@
 # 👋 你好，我是 YanHe
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=YanHeDoki&fontSize=40&desc=失败贯穿我的人生&descAlignY=65)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=YanHeDoki&fontSize=40&desc=GoPher & Ferris&descAlignY=65)
 
 ## 🧑‍💻 关于我
 
-- 🏢 后端开发 GoPher & Ferris
+- 🏢 后端开发
 - 💻 技能栈：Go / Rust（无法和有虚拟机的语言沟通
 - 🧰 常用工具：VSCode、Typora、Copilot
 - 📍 坐标：深圳
