@@ -7,12 +7,14 @@
 - 🏢 后端开发 GoPher & Ferris
 - 💻 技能栈：Go / Rust（无法和有虚拟机的语言沟通
 - 🧰 常用工具：VSCode、Typora、Copilot
-- 🧑‍🔬 开源贡献者
+- 📍 坐标：深圳
 
-## 🔧 参与过的一些微小的贡献
+## 🔧 一些微小的贡献
 
-- [aceld/zinx](https://github.com/aceld/zinx) —— 轻量级 Go 游戏服务器框架
-- [tokio-rs/axum](https://github.com/tokio-rs/axum) —— Rust 的异步 Web 框架
+偶尔参与了一些有趣项目的改进：
+
+- [aceld/zinx](https://github.com/aceld/zinx/pulls?q=is%3Apr+author%3AYanHeDoki+is%3Aclosed)
+- [tokio-rs/axum](https://github.com/tokio-rs/axum/pulls?q=is%3Apr+author%3AYanHeDoki+is%3Aclosed)
 
 ## 🎮 爱好
 
